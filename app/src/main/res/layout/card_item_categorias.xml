@@ -64,7 +64,6 @@
 
         </LinearLayout>
 
-
         <ImageView
             android:id="@+id/foto"
             android:layout_width="match_parent"
