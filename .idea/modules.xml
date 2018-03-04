@@ -3,9 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AplicacionAgendaElectronicaOriental.iml" filepath="$PROJECT_DIR$/AplicacionAgendaElectronicaOriental.iml" />
-      <module fileurl="file://C:\Users\omar\Desktop\proyecto AEO 2018\AplicacionAgendaElectronicaOriental\AplicacionAgendaElectronicaOriental.iml" filepath="C:\Users\omar\Desktop\proyecto AEO 2018\AplicacionAgendaElectronicaOriental\AplicacionAgendaElectronicaOriental.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\omar\Desktop\proyecto AEO 2018\AplicacionAgendaElectronicaOriental\app\app.iml" filepath="C:\Users\omar\Desktop\proyecto AEO 2018\AplicacionAgendaElectronicaOriental\app\app.iml" />
     </modules>
   </component>
 </project>
