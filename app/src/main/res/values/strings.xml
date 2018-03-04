@@ -8,7 +8,11 @@
     <string name="direccion">Dirección:</string>
     <string name="telefono">Teléfono:</string>
     <string name="email">E-mail:</string>
-    <string name="apperfil">Pérfil</string>
+    <string name="apperfil">Perfil</string>
+    <string name="titulo">Titulo</string>
+    <string name="cantidad">170</string>
+    <string name="id_categorias"></string>
+    <string name="foto">Foto</string>
     <string name="principal">Principal</string>
     <string name="acercadeapp">Acerca de:</string>
     <string name="app_correo">AEO@Gmail.com</string>
